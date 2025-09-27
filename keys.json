@@ -23,6 +23,11 @@
       "expiry": "2025/09/26 21:55",
       "devices": [],
       "limit": 3
+    },
+    "ZERO-1H-qFVWH1s9Qm": {
+      "expiry": "2025/09/27 16:46",
+      "devices": [],
+      "limit": 1
     }
   }
 }
