@@ -4,6 +4,11 @@
       "expiry": "never",
       "devices": [],
       "limit": 3
+    },
+    "ZERO-7D-rhFg93o3Gj": {
+      "expiry": "2025/11/26 15:02",
+      "devices": [],
+      "limit": 50
     }
   }
 }
