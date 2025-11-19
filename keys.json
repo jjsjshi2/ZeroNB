@@ -1,3 +1,9 @@
 {
-  "keys": {}
+  "keys": {
+    "zero-admin-zhuxianniubi": {
+      "expiry": "never",
+      "devices": [],
+      "limit": 3
+    }
+  }
 }
