@@ -1,18 +1,13 @@
 {
-    "keys": {
-        "zero-admin-zhuxianniubi": {
-            "expiry": "never",
-            "devices": [],
-            "limit": 3
-        },
-        "ZERO-7D-rhFg93o3Gj": {
-            "expiry": "2025\/11\/26 15:02",
-            "devices": [
-                "72fdc2a7c6055c2f",
-                "b355811b331bb500",
-                "2d4541c2adb750b6"
-            ],
-            "limit": 50
-        }
+  "keys": {
+    "ZERO-7D-rhFg93o3Gj": {
+      "expiry": "2025/11/26 15:02",
+      "devices": [
+        "72fdc2a7c6055c2f",
+        "b355811b331bb500",
+        "2d4541c2adb750b6"
+      ],
+      "limit": 50
     }
+  }
 }
