@@ -1,13 +1,3 @@
 {
-  "keys": {
-    "zero-admin-nb888": {
-      "expiry": "never",
-      "devices": [
-        "3c9318968e8272",
-        "3c931896f2272",
-        "3c931896f2272"
-      ],
-      "limit": 3
-    }
-  }
+  "keys": {}
 }
