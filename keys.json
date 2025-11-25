@@ -1,43 +1,45 @@
 {
-  "keys": {
-    "ZERO-7D-rhFg93o3Gj": {
-      "expiry": "2025/11/26 15:02",
-      "devices": [
-        "72fdc2a7c6055c2f",
-        "b355811b331bb500",
-        "2d4541c2adb750b6",
-        "de6526ed0123cf5f",
-        "2f88722188d6e963",
-        "7d65b17b47761621",
-        "6969380cb7986898",
-        "41a2b5816d2be9ae",
-        "f82b67a024eb7946",
-        "3c931896f28e8272",
-        "6a8a16fa8ce1299c",
-        "4d80918741cda363",
-        "81f04fbe2886df78",
-        "589f2fad516e1361",
-        "4fc4757cee7f0ece",
-        "8ba0f3b8a37d218e",
-        "5d9cfd9ebde262e3",
-        "7ee023afe19858ad",
-        "ac4aba2076bbf6fe",
-        "2ac9c2f49c1526e5",
-        "0285a53b9aceedea",
-        "442994aff1ac16ce",
-        "c643606c01abcb44",
-        "4372e402d2538f71",
-        "34e270e0511cd05f",
-        "0206de23a7d82ece",
-        "8ecaed3131b5eb64",
-        "18d0d783c7719e7e"
-      ],
-      "limit": 50
-    },
-    "ZERO-12H-33a4wnG1OL": {
-      "expiry": "2025/11/26 08:22",
-      "devices": [],
-      "limit": 999
+    "keys": {
+        "ZERO-7D-rhFg93o3Gj": {
+            "expiry": "2025\/11\/26 15:02",
+            "devices": [
+                "72fdc2a7c6055c2f",
+                "b355811b331bb500",
+                "2d4541c2adb750b6",
+                "de6526ed0123cf5f",
+                "2f88722188d6e963",
+                "7d65b17b47761621",
+                "6969380cb7986898",
+                "41a2b5816d2be9ae",
+                "f82b67a024eb7946",
+                "3c931896f28e8272",
+                "6a8a16fa8ce1299c",
+                "4d80918741cda363",
+                "81f04fbe2886df78",
+                "589f2fad516e1361",
+                "4fc4757cee7f0ece",
+                "8ba0f3b8a37d218e",
+                "5d9cfd9ebde262e3",
+                "7ee023afe19858ad",
+                "ac4aba2076bbf6fe",
+                "2ac9c2f49c1526e5",
+                "0285a53b9aceedea",
+                "442994aff1ac16ce",
+                "c643606c01abcb44",
+                "4372e402d2538f71",
+                "34e270e0511cd05f",
+                "0206de23a7d82ece",
+                "8ecaed3131b5eb64",
+                "18d0d783c7719e7e"
+            ],
+            "limit": 50
+        },
+        "ZERO-12H-33a4wnG1OL": {
+            "expiry": "2025\/11\/26 08:22",
+            "devices": [
+                "3c931896f28e8272"
+            ],
+            "limit": 999
+        }
     }
-  }
 }
