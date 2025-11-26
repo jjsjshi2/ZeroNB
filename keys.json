@@ -1,25 +1,30 @@
 {
-    "keys": {
-        "ZERO-12H-33a4wnG1OL": {
-            "expiry": "2025\/11\/26 08:22",
-            "devices": [
-                "3c931896f28e8272"
-            ],
-            "limit": 999
-        },
-        "ZERO-1H-o3aQHw37IX": {
-            "expiry": "2025\/11\/26 15:52",
-            "devices": [
-                "3c931896f28e8272"
-            ],
-            "limit": 1
-        },
-        "ZERO-3H-1CWVkqxQkN": {
-            "expiry": "2025\/11\/26 19:37",
-            "devices": [
-                "3c931896f28e8272"
-            ],
-            "limit": 1
-        }
+  "keys": {
+    "ZERO-12H-33a4wnG1OL": {
+      "expiry": "2025/11/26 08:22",
+      "devices": [
+        "3c931896f28e8272"
+      ],
+      "limit": 999
+    },
+    "ZERO-1H-o3aQHw37IX": {
+      "expiry": "2025/11/26 15:52",
+      "devices": [
+        "3c931896f28e8272"
+      ],
+      "limit": 1
+    },
+    "ZERO-3H-1CWVkqxQkN": {
+      "expiry": "2025/11/26 19:37",
+      "devices": [
+        "3c931896f28e8272"
+      ],
+      "limit": 1
+    },
+    "zero-admin-zhuxiannb": {
+      "expiry": "never",
+      "devices": [],
+      "limit": 1
     }
+  }
 }
