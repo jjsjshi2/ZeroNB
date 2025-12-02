@@ -1,35 +1,36 @@
 {
-  "keys": {
-    "zero-admin-zhuxiannb": {
-      "expiry": "never",
-      "devices": [],
-      "limit": 1
-    },
-    "ZERO-3D-AC6Mt7i3fj": {
-      "expiry": "2025/12/05 17:37",
-      "devices": [
-        "59cbd556a7178252",
-        "3c931896f28e8272",
-        "027a774170b80df3"
-      ],
-      "limit": 30
-    },
-    "ZeroNB": {
-      "expiry": "never",
-      "devices": [],
-      "limit": 1
-    },
-    "ZERO-2D-rNmeMmQ99Y": {
-      "expiry": "2025/12/04 18:09",
-      "devices": [
-        "3c931896f28e8272"
-      ],
-      "limit": 2
-    },
-    "ZERO-9999D-yRUo1BpBuL": {
-      "expiry": "2053/04/18 19:27",
-      "devices": [],
-      "limit": 1
+    "keys": {
+        "zero-admin-zhuxiannb": {
+            "expiry": "never",
+            "devices": [],
+            "limit": 1
+        },
+        "ZERO-3D-AC6Mt7i3fj": {
+            "expiry": "2025\/12\/05 17:37",
+            "devices": [
+                "59cbd556a7178252",
+                "3c931896f28e8272",
+                "027a774170b80df3",
+                "6500dd6ca2256dba"
+            ],
+            "limit": 30
+        },
+        "ZeroNB": {
+            "expiry": "never",
+            "devices": [],
+            "limit": 1
+        },
+        "ZERO-2D-rNmeMmQ99Y": {
+            "expiry": "2025\/12\/04 18:09",
+            "devices": [
+                "3c931896f28e8272"
+            ],
+            "limit": 2
+        },
+        "ZERO-9999D-yRUo1BpBuL": {
+            "expiry": "2053\/04\/18 19:27",
+            "devices": [],
+            "limit": 1
+        }
     }
-  }
 }
