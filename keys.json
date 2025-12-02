@@ -1,14 +1,16 @@
 {
-  "keys": {
-    "zero-admin-zhuxiannb": {
-      "expiry": "never",
-      "devices": [],
-      "limit": 1
-    },
-    "ZERO-3D-AC6Mt7i3fj": {
-      "expiry": "2025/12/05 17:37",
-      "devices": [],
-      "limit": 30
+    "keys": {
+        "zero-admin-zhuxiannb": {
+            "expiry": "never",
+            "devices": [],
+            "limit": 1
+        },
+        "ZERO-3D-AC6Mt7i3fj": {
+            "expiry": "2025\/12\/05 17:37",
+            "devices": [
+                "59cbd556a7178252"
+            ],
+            "limit": 30
+        }
     }
-  }
 }
