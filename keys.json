@@ -18,11 +18,6 @@
       ],
       "limit": 30
     },
-    "ZeroNB": {
-      "expiry": "never",
-      "devices": [],
-      "limit": 1
-    },
     "ZERO-2D-rNmeMmQ99Y": {
       "expiry": "2025/12/04 18:09",
       "devices": [
