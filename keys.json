@@ -40,6 +40,11 @@
         "e091cd6d1d29594f"
       ],
       "limit": 1
+    },
+    "imgod": {
+      "expiry": "never",
+      "devices": [],
+      "limit": 1
     }
   }
 }
