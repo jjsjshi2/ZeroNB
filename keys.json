@@ -1,105 +1,45 @@
 {
-    "keys": {
-        "ZERO-3D-AC6Mt7i3fj": {
-            "expiry": "2025\/12\/05 17:37",
-            "devices": [
-                "59cbd556a7178252",
-                "3c931896f28e8272",
-                "027a774170b80df3",
-                "6500dd6ca2256dba",
-                "81f04fbe2886df78",
-                "2f88722188d6e963",
-                "e091cd6d1d29594f"
-            ],
-            "limit": 30
-        },
-        "ZERO-2D-rNmeMmQ99Y": {
-            "expiry": "2025\/12\/04 18:09",
-            "devices": [
-                "3c931896f28e8272"
-            ],
-            "limit": 2
-        },
-        "ZERO-30D-QcLPvWEQDe": {
-            "expiry": "2026\/01\/01 23:11",
-            "devices": [
-                "7d65b17b47761621"
-            ],
-            "limit": 1
-        },
-        "ZERO-3D-VcrVQIZHZ6": {
-            "expiry": "2025\/12\/07 22:29",
-            "devices": [
-                "1745e6d113ccaae4"
-            ],
-            "limit": 15
-        },
-        "ZERO-30D-wnnLQ4hTDl": {
-            "expiry": "2026\/01\/04 21:15",
-            "devices": [
-                "e091cd6d1d29594f"
-            ],
-            "limit": 1
-        },
-        "ILOVEZHUXIAN": {
-            "expiry": "2026\/02\/07 23:05",
-            "devices": [
-                "3c931896f28e8272",
-                "83405b49e4676957",
-                "797c9415f04e35d4",
-                "766b3195e7eeb690",
-                "37b3ced16b58ff17",
-                "b0254268190ba09e",
-                "c17788f2c5f564a2",
-                "d59a6664dace91e0",
-                "935fd73cdabd65a8",
-                "5aab2279ccc3a94a",
-                "39598ae20f141b59",
-                "9092e93629f3c819",
-                "193c5e9c0ff46cd0",
-                "9b5594279ae71567",
-                "11ba482a8eb7e5b0",
-                "3d9c1a7fe86ffc4b",
-                "69240844cc10e59f",
-                "25894c9c27beace5",
-                "e0b277feda0d0241",
-                "9805207870408b9a",
-                "6969380cb7986898",
-                "acb2783cefc3fa3a",
-                "64791a014f01e394",
-                "7de00837ff255ad1",
-                "8fa2ea744638be38",
-                "08ff33d7e10851f7",
-                "95362bb3f74104ae",
-                "82f7dc2850dccbfd",
-                "b382aa96eb9a9eec",
-                "ac4aba2076bbf6fe",
-                "5de04d7c8244a135",
-                "f143420b8315dedc",
-                "92a9f54230e515ac",
-                "14a96faa67e36e4c",
-                "3bdc0d72be9a40fc",
-                "f73875c3aaa0c970",
-                "47a47a93ef38178f",
-                "8c7c814004a5f170",
-                "198bcefe944b6e36",
-                "5509ad8389fa98b9",
-                "bdfc15754f0f646e",
-                "44c9ffdf6eafd443",
-                "da03f2f2ff66fee0",
-                "2ac9c2f49c1526e5",
-                "cc6ebeb4d8f1f165",
-                "e978b6cbe21e13bd",
-                "5672a036ee2be8b2",
-                "643628550752072",
-                "98dc75380e833e0e",
-                "b935a6fd31b49f96",
-                "cb014b28203ced70",
-                "6a8a16fa8ce1299c",
-                "de6526ed0123cf5f",
-                "5d9cfd9ebde262e3"
-            ],
-            "limit": 999
-        }
+  "keys": {
+    "ZERO-3D-AC6Mt7i3fj": {
+      "expiry": "2025/12/05 17:37",
+      "devices": [
+        "59cbd556a7178252",
+        "3c931896f28e8272",
+        "027a774170b80df3",
+        "6500dd6ca2256dba",
+        "81f04fbe2886df78",
+        "2f88722188d6e963",
+        "e091cd6d1d29594f"
+      ],
+      "limit": 30
+    },
+    "ZERO-2D-rNmeMmQ99Y": {
+      "expiry": "2025/12/04 18:09",
+      "devices": [
+        "3c931896f28e8272"
+      ],
+      "limit": 2
+    },
+    "ZERO-30D-QcLPvWEQDe": {
+      "expiry": "2026/01/01 23:11",
+      "devices": [
+        "7d65b17b47761621"
+      ],
+      "limit": 1
+    },
+    "ZERO-3D-VcrVQIZHZ6": {
+      "expiry": "2025/12/07 22:29",
+      "devices": [
+        "1745e6d113ccaae4"
+      ],
+      "limit": 15
+    },
+    "ZERO-30D-wnnLQ4hTDl": {
+      "expiry": "2026/01/04 21:15",
+      "devices": [
+        "e091cd6d1d29594f"
+      ],
+      "limit": 1
     }
+  }
 }
